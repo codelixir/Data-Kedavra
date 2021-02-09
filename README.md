@@ -19,8 +19,6 @@ store the data like cartoons, articles, members.
 ### Entity Relationship Diagram (Without Constraints)
 <img src="./Readme Media/ER diagram.png">
 
-##### P.S. This was our team's assignment as a part of Data and Applications course (3rd Semester)
-
 ## Contributors 
 [Rishabh Khanna](https://github.com/KyaBacchaHai) <br>
 [Kshitijaa Jaglan](https://github.com/deutranium) <br>
